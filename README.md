@@ -20,7 +20,7 @@ Inicio del Proyecto
 
 #1 Clonar el repositorio:
 
-git clone https://github.com/Magalygv/prioyecto3-delilahexports.git
+git clone https://github.com/Davidgrillo/Proyecto3DelilahR.github.io.git
 
 #2. Instalar dependencias
 
