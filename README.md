@@ -34,4 +34,4 @@ dotenv express jsonwebtoken mysql mysql2 helmet sequelize
 
 Por último: Ejecutar los endpoints desde postman para poder hacer uso de la API y base de datos.
 
-Este es el postman https://app.getpostman.com/join-team?invite_code=ddd0bc0e534891a69598f83a4288215b
+Este es el postman https://www.getpostman.com/collections/22d22c8868acc5aab3ca
