@@ -33,5 +33,3 @@ dotenv express jsonwebtoken mysql mysql2 helmet sequelize
 #4 Iniciando el servidor Abrir archivo desde la consola en nodemon server.js
 
 Por último: Ejecutar los endpoints desde postman para poder hacer uso de la API y base de datos.
-
-Este es el postman https://www.getpostman.com/collections/22d22c8868acc5aab3ca
